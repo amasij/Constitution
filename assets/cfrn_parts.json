@@ -1,0 +1,81 @@
+[{
+	"id": 0,
+	"chapter_id": 0,
+	"title": ""
+},
+	{
+		"id": 1,
+		"chapter_id": 1,
+		"title": "Part I - Federal Republic of Nigeria"
+	},
+	{
+		"id": 2,
+		"chapter_id": 1,
+		"title": "Part II - Powers of the Federal Republic of Nigeria"
+	},
+	{
+		"id": 3,
+		"chapter_id": 5,
+		"title": "Part I - National Assembly"
+	},
+	{
+		"id": 4,
+		"chapter_id": 5,
+		"title": "Part II - House of Assembly of a State"
+	},
+	{
+		"id": 5,
+		"chapter_id": 6,
+		"title": "Part I - Federal Executive"
+	},
+	{
+		"id": 6,
+		"chapter_id": 6,
+		"title": "Part II - State Executive"
+	},
+	{
+		"id": 7,
+		"chapter_id": 6,
+		"title": "Part III - Supplemental"
+	},
+	{
+		"id": 8,
+		"chapter_id": 7,
+		"title": "Part I - Federal Courts"
+	},
+	{
+		"id": 9,
+		"chapter_id": 7,
+		"title": "Part II - State Courts"
+	},
+	{
+		"id": 10,
+		"chapter_id": 7,
+		"title": "Part III - Election Tribunals"
+	},
+	{
+		"id": 11,
+		"chapter_id": 7,
+		"title": "Part IV - Supplemental"
+	},
+	{
+		"id": 12,
+		"chapter_id": 8,
+		"title": "Part I - Federal Capital Territory, Abuja"
+	},
+	{
+		"id": 13,
+		"chapter_id": 8,
+		"title": "Part II - Miscellaneous Provisions"
+	},
+	{
+		"id": 14,
+		"chapter_id": 8,
+		"title": "Part III - Transitional Provisions and Savings"
+	},
+	{
+		"id": 15,
+		"chapter_id": 8,
+		"title": "Part IV - Interpretation, Citation and commencement"
+	}
+]

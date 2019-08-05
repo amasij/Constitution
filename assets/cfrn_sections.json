@@ -1,0 +1,1927 @@
+[{
+	"id": 0,
+	"part_id": 0,
+	"chapter_id": 0,
+	"title": ""
+},
+	{
+		"id": 1,
+		"part_id": 1,
+		"chapter_id": 1,
+		"title": "1 - SUPREMACY OF CONSTITUTION"
+	},
+	{
+		"id": 2,
+		"part_id": 1,
+		"chapter_id": 1,
+		"title": "2 - THE FEDERAL REPUBLIC OF NIGERIA "
+	},
+	{
+		"id": 3,
+		"part_id": 2,
+		"chapter_id": 1,
+		"title": "3 - STATES OF THE FEDERATION AND THE FEDERAL CAPITAL TERRITORY, ABUJA"
+	},
+	{
+		"id": 4,
+		"part_id": 2,
+		"chapter_id": 1,
+		"title": "4 - LEGISLATIVE POWERS "
+	},
+	{
+		"id": 5,
+		"part_id": 2,
+		"chapter_id": 1,
+		"title": "5 - EXECUTIVE POWERS "
+	},
+	{
+		"id": 6,
+		"part_id": 2,
+		"chapter_id": 1,
+		"title": "6 - JUDICIAL POWERS "
+	},
+	{
+		"id": 7,
+		"part_id": 2,
+		"chapter_id": 1,
+		"title": "7 - LOCAL GOVERNMENT SYSTEM "
+	},
+	{
+		"id": 8,
+		"part_id": 2,
+		"chapter_id": 1,
+		"title": "8 - NEW STATES AND BOUNDARY ADJUSTMENT "
+	},
+	{
+		"id": 9,
+		"part_id": 2,
+		"chapter_id": 1,
+		"title": "9 - MODE OF ALTERING THE PROVISIONS OF THE CONSTITUTION "
+	},
+	{
+		"id": 10,
+		"part_id": 2,
+		"chapter_id": 1,
+		"title": "10 - PROHIBITION OF STATE RELIGION "
+	},
+	{
+		"id": 11,
+		"part_id": 2,
+		"chapter_id": 1,
+		"title": "11 - PUBLIC ORDER AND PUBLIC SECURITY "
+	},
+	{
+		"id": 12,
+		"part_id": 2,
+		"chapter_id": 1,
+		"title": "12 - IMPLEMENTATION OF TREATIES "
+	},
+	{
+		"id": 13,
+		"part_id": 0,
+		"chapter_id": 2,
+		"title": "13 - FUNDAMENTAL OBLIGATIONS OF THE GOVERNMENT "
+	},
+	{
+		"id": 14,
+		"part_id": 0,
+		"chapter_id": 2,
+		"title": "14 - THE GOVERNMENT AND THE PEOPLE "
+	},
+	{
+		"id": 15,
+		"part_id": 0,
+		"chapter_id": 2,
+		"title": "15 - POLITICAL OBJECTIVES "
+	},
+	{
+		"id": 16,
+		"part_id": 0,
+		"chapter_id": 2,
+		"title": "16 - ECONOMIC OBJECTIVES "
+	},
+	{
+		"id": 17,
+		"part_id": 0,
+		"chapter_id": 2,
+		"title": "17 - SOCIAL OBJECTIVES "
+	},
+	{
+		"id": 18,
+		"part_id": 0,
+		"chapter_id": 2,
+		"title": "18 - EDUCATIONAL OBJECTIVES "
+	},
+	{
+		"id": 19,
+		"part_id": 0,
+		"chapter_id": 2,
+		"title": "19 - FOREIGN POLICY OBJECTIVES"
+	},
+	{
+		"id": 20,
+		"part_id": 0,
+		"chapter_id": 2,
+		"title": "20 -ENVIRONMENTAL OBJECTIVES "
+	},
+	{
+		"id": 21,
+		"part_id": 0,
+		"chapter_id": 2,
+		"title": "21 - DIRECTIVES ON NIGERIA CULTURES "
+	},
+	{
+		"id": 22,
+		"part_id": 0,
+		"chapter_id": 2,
+		"title": "22 - OBLIGATION OF THE MASS MEDIA  "
+	},
+	{
+		"id": 23,
+		"part_id": 0,
+		"chapter_id": 2,
+		"title": "23 - NATIONAL ETHICS "
+	},
+	{
+		"id": 24,
+		"part_id": 0,
+		"chapter_id": 2,
+		"title": "24 - DUTIES OF THE CITIZEN "
+	},
+	{
+		"id": 25,
+		"part_id": 0,
+		"chapter_id": 3,
+		"title": "25 - CITIZENSHIP BY BIRTH "
+	},
+	{
+		"id": 26,
+		"part_id": 0,
+		"chapter_id": 3,
+		"title": "26 - CITIZENSHIP BY REGISTRATION "
+	},
+	{
+		"id": 27,
+		"part_id": 0,
+		"chapter_id": 3,
+		"title": "27 - CITIZENSHIP BY NATURALIZATION "
+	},
+	{
+		"id": 28,
+		"part_id": 0,
+		"chapter_id": 3,
+		"title": "28 - DUAL CITIZENSHIP "
+	},
+	{
+		"id": 29,
+		"part_id": 0,
+		"chapter_id": 3,
+		"title": "29 - RENUNCIATION OF CITIZENSHIP "
+	},
+	{
+		"id": 30,
+		"part_id": 0,
+		"chapter_id": 3,
+		"title": "30 -DEPRIVATION OF CITIZENSHIP "
+	},
+	{
+		"id": 31,
+		"part_id": 0,
+		"chapter_id": 3,
+		"title": "31 - PERSONS DEEMED TO BE NIGERIAN CITIZENS "
+	},
+	{
+		"id": 32,
+		"part_id": 0,
+		"chapter_id": 3,
+		"title": "32 - POWER TO MAKE REGULATIONS "
+	},
+	{
+		"id": 33,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "33 - RIGHT TO LIFE"
+	},
+	{
+		"id": 34,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "34 - RIGHT TO DIGNITY OF HUMAN PERSONS "
+	},
+	{
+		"id": 35,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "35 - RIGHT TO PERSONAL LIBERTY "
+	},
+	{
+		"id": 36,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "36 - RIGHT TO LIFE "
+	},
+	{
+		"id": 37,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "37 - RIGHT TO PRIVATE AND FAMILY LIFE "
+	},
+	{
+		"id": 38,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "38 - RIGHT TO FREEDOM OF THOUGHT, CONSCIENCE AND RELIGION "
+	},
+	{
+		"id": 39,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "39 - RIGHT TO FREEDOM OF EXPRESSION AND THE PRESS "
+	},
+	{
+		"id": 40,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "40 -RIGHT TO PEACEFUL ASSEMBLY AND ASSOCIATION "
+	},
+	{
+		"id": 41,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "41 - RIGHT TO FREEDOM OF MOVEMENT "
+	},
+	{
+		"id": 42,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "42 - RIGHT TO FREEDOM FROM DISCRIMINATION "
+	},
+	{
+		"id": 43,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "43 - RIGHT TO ACQUIRE AND OWN IMMOVEABLE PROPERTY "
+	},
+	{
+		"id": 44,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "44 - COMPULSORY ACQUISITION OF PROPERTY "
+	},
+	{
+		"id": 45,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "45 - RESTRICTION ON AND DEROGATION FROM FUNDAMENTAL HUMAN RIGHTS "
+	},
+	{
+		"id": 46,
+		"part_id": 0,
+		"chapter_id": 4,
+		"title": "46 - SPECIAL JURISDICTION OF HIGH COURT AND LEGAL AID "
+	},
+	{
+		"id": 47,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "47 - ESTABLISHMENT OF NATIONAL ASSEMBLY "
+	},
+	{
+		"id": 48,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "48 - COMPOSITION OF THE SENATE "
+	},
+	{
+		"id": 49,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "49 - COMPOSITION OF THE HOUSE OF REPRESENTATIVES "
+	},
+	{
+		"id": 50,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "50 -PRESIDENT OF THE SENATE AND SPEAKER OF THE HOUSE OF REPRESENTATIVES "
+	},
+	{
+		"id": 51,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "51 - STAFF OF THE NATIONAL ASSEMBLY "
+	},
+	{
+		"id": 52,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "52 - DECLARATION OF ASSETS AND LIABILITIES; OATH OF MEMBERS "
+	},
+	{
+		"id": 53,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "53 - PRESIDING AT SITTING OF THE NATIONAL ASSEMBLY AND AT JOINT SITTINGS "
+	},
+	{
+		"id": 54,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "54 - QUORUM "
+	},
+	{
+		"id": 55,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "55 - LANGUAGES "
+	},
+	{
+		"id": 56,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "56 - VOTING "
+	},
+	{
+		"id": 57,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "57 - UNQUALIFIED PERSON SITTING AND VOTING "
+	},
+	{
+		"id": 58,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "58 - MODE OF EXERCISING FEDERAL LEGISLATIVE POWER: GENERAL "
+	},
+	{
+		"id": 59,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "59 - MODE OF EXERCISING FEDERAL LEGISLATIVE POWER: MONEY BILLS "
+	},
+	{
+		"id": 60,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "60 -REGULATION OF PROCEDURE "
+	},
+	{
+		"id": 61,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "61 - VACANCY OR PARTICIPATION NOT TO INVALIDATE PROCEEDINGS "
+	},
+	{
+		"id": 62,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "62 - COMMITTEES "
+	},
+	{
+		"id": 63,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "63 - SITTINGS "
+	},
+	{
+		"id": 64,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "64 - DISSOLUTION AND ISSUE OF PROCLAMATIONS BY PRESIDENT "
+	},
+	{
+		"id": 65,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "65 - QUALIFICATIONS FOR ELECTION "
+	},
+	{
+		"id": 66,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "66 - DISQUALIFICATIONS "
+	},
+	{
+		"id": 67,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "67 - RIGHT OF ATTENDANCE OF PRESIDENT "
+	},
+	{
+		"id": 68,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "68 - TENURE OF SEAT OF MEMBERS "
+	},
+	{
+		"id": 69,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "69 - RECALL "
+	},
+	{
+		"id": 70,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "70 -REMUNERATION "
+	},
+	{
+		"id": 71,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "71 - SENATORIAL DISTRICTS AND FEDERAL CONSTITUENCIES "
+	},
+	{
+		"id": 72,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "72 - SIZE OF SENATORIAL DISTRICTS AND FEDERAL CONSTITUENCIES "
+	},
+	{
+		"id": 73,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "73 - PERIODICAL REVIEW OF SENATORIAL DISTRICTS AND FEDERAL CONSTITUENCIES "
+	},
+	{
+		"id": 74,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "74 - TIME WHEN ALTERATION OF SENATORIAL DISTRICTS OR FEDERAL CONSTITUENCIES TAKES EFFECT "
+	},
+	{
+		"id": 75,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "75 - ASCERTAINMENT OF POPULATION "
+	},
+	{
+		"id": 76,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "76 - TIME OF ELECTION TO THE NATIONAL ASSEMBLY "
+	},
+	{
+		"id": 77,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "77 - DIRECT ELECTION AND FRANCHISE "
+	},
+	{
+		"id": 78,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "78 - SUPERVISION OF ELECTION "
+	},
+	{
+		"id": 79,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "79 - POWERS OF THE NATIONAL ASSEMBLY AS TO DETERMINATION OF CERTAIN QUESTIONS "
+	},
+	{
+		"id": 80,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "80 -ESTABLISHMENT OF CONSOLIDATED REVENUE FUND "
+	},
+	{
+		"id": 81,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "81 - AUTHORIZATION OF EXPENDITURE FROM CONSOLIDATED REVENUE FUND "
+	},
+	{
+		"id": 82,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "82 - AUTHORIZATION OF EXPENDITURE IN DEFAULT OF APPROPRIATIONS "
+	},
+	{
+		"id": 83,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "83 - CONTINGENCIES FUND "
+	},
+	{
+		"id": 84,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "84 - REMUNERATION, ETC. OF THE PRESIDENT AND CERTAIN OTHER OFFICERS "
+	},
+	{
+		"id": 85,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "85 - AUDIT OF PUBLIC ACCOUNTS "
+	},
+	{
+		"id": 86,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "86 - APPOINTMENT OF AUDITOR-GENERAL "
+	},
+	{
+		"id": 87,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "87 - TENURE OF OFFICE OF AUDITOR-GENERAL "
+	},
+	{
+		"id": 88,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "88 - POWER TO CONDUCT INVESTIGATION "
+	},
+	{
+		"id": 89,
+		"part_id": 3,
+		"chapter_id": 5,
+		"title": "89 - POWER AS TO MATTERS OF EVIDENCE "
+	},
+	{
+		"id": 90,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "90 - STABLISHMENT OF HOUSE OF ASSEMBLY FOR EACH STATE "
+	},
+	{
+		"id": 91,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "91 - COMPOSITION OF THE HOUSE OF ASSEMBLY "
+	},
+	{
+		"id": 92,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "92 - SPEAKER OF HOUSE OF ASSEMBLY "
+	},
+	{
+		"id": 93,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "93 - STAFF OF HOUSE OF ASSEMBLY "
+	},
+	{
+		"id": 94,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "94 - DECLARATION OF ASSETS AND LIABILITIES; OATHS OF MEMBERS "
+	},
+	{
+		"id": 95,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "95 - PRESIDING AT SITTINGS "
+	},
+	{
+		"id": 96,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "96 - QUORUM "
+	},
+	{
+		"id": 97,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "97 - LANGUAGES "
+	},
+	{
+		"id": 98,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "98 - VOTING "
+	},
+	{
+		"id": 99,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "99 - UNQUALIFIED PERSON SITTING OR VOTING "
+	},
+	{
+		"id": 100,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "100 - MODE OF EXERCISING LEGISLATIVE POWER OF A STATE "
+	},
+	{
+		"id": 101,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "101 - REGULATION OF PROCEDURE "
+	},
+	{
+		"id": 102,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "102 - VACANCY OR PARTICIPATION OF STRANGERS NOT TO INVALIDATE PROCEEDINGS "
+	},
+	{
+		"id": 103,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "103 - COMMITTEES "
+	},
+	{
+		"id": 104,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "104 - SITTINGS "
+	},
+	{
+		"id": 105,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "105 - DISSOLUTION AND ISSUE OF PROCLAMATION BY GOVERNOR "
+	},
+	{
+		"id": 106,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "106 - QUALIFICATIONS FOR ELECTION "
+	},
+	{
+		"id": 107,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "107 - DISQUALIFICATIONS "
+	},
+	{
+		"id": 108,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "108 - RIGHT OF ATTENDANCE OF GOVERNOR "
+	},
+	{
+		"id": 109,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "109 - TENURE OF SEAT OF MEMBERS "
+	},
+	{
+		"id": 110,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "110 -RECALL "
+	},
+	{
+		"id": 111,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "111 - REMUNERATION "
+	},
+	{
+		"id": 112,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "112 - STATE CONSTITUENCIES "
+	},
+	{
+		"id": 113,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "113 - SIZE OF STATE CONSTITUENCIES "
+	},
+	{
+		"id": 114,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "114 - PERIODICAL REVIEW OF STATE CONSTITUENCIES "
+	},
+	{
+		"id": 115,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "115 - TIME WHEN ALTERATION OF STATE CONSTITUENCIES TAKES EFFECT "
+	},
+	{
+		"id": 116,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "116 - TIME OF ELECTION TO HOUSES OF ASSEMBLY "
+	},
+	{
+		"id": 117,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "117 - DIRECT ELECTION AND FRANCHISE "
+	},
+	{
+		"id": 118,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "118 - SUPERVISION AND DIRECTION "
+	},
+	{
+		"id": 119,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "119 - POWER OF THE NATIONAL ASSEMBLY AS TO DETERMINATION OF CERTAIN QUESTIONS "
+	},
+	{
+		"id": 120,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "120 - -ESTABLISHMENT OF CONSOLIDATED REVENUE FUND "
+	},
+	{
+		"id": 121,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "121 - AUTHORIZATION OF EXPENDITURE FROM CONSOLIDATED REVENUE FUND "
+	},
+	{
+		"id": 122,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "122 - AUTHORIZATION OF EXPENDITURE IN DEFAULT OF APPROPRIATIONS "
+	},
+	{
+		"id": 123,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "123 - CONTINGENCIES FUND "
+	},
+	{
+		"id": 124,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "124 - REMUNERATION, ETC. OF THE GOVERNOR AND CERTAIN OTHER OFFICERS "
+	},
+	{
+		"id": 125,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "125 - AUDIT OF PUBLIC ACCOUNTS "
+	},
+	{
+		"id": 126,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "126 - APPOINTMENT OF AUDITOR-GENERAL "
+	},
+	{
+		"id": 127,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "127 - TENURE OF OFFICE OF AUDITOR-GENERAL "
+	},
+	{
+		"id": 128,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "128 - POWER TO CONDUCT INVESTIGATION "
+	},
+	{
+		"id": 129,
+		"part_id": 4,
+		"chapter_id": 5,
+		"title": "129 -POWER AS TO MATTERS OF EVIDENCE "
+	},
+	{
+		"id": 130,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "130 -  ESTABLISHMENT OF THE OFFICE OF THE PRESIDENT "
+	},
+	{
+		"id": 131,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "131 -  QUALIFICATION FOR ELECTION AS PRESIDENT "
+	},
+	{
+		"id": 132,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "132 -  ELECTION OF THE PRESIDENT: GENERAL "
+	},
+	{
+		"id": 133,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "133 -  ELECTION: SINGLE PRESIDENTIAL CANDIDATE "
+	},
+	{
+		"id": 134,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "134 -  ELECTION: TWO OR MORE PRESIDENTIAL CANDIDATES "
+	},
+	{
+		"id": 135,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "135 -  TENURE OF OFFICE OF PRESIDENT "
+	},
+	{
+		"id": 136,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "136 -  DEATH, ETC. OF PRESIDENT-ELECT BEFORE OATH OF OFFICE "
+	},
+	{
+		"id": 137,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "137 -  DISQUALIFICATIONS "
+	},
+	{
+		"id": 138,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "138 -  PRESIDENT: DISQUALIFICATION FROM OTHER JOBS "
+	},
+	{
+		"id": 139,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "139 - DETERMINATION OF CERTAIN QUESTIONS RELATING TO ELECTION "
+	},
+	{
+		"id": 140,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "140 - DECLARATION OF ASSETS AND LIABILITIES; OATHS OF PRESIDENT "
+	},
+	{
+		"id": 141,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "141 - ESTABLISHMENT OF OFFICE OF PRESIDENT "
+	},
+	{
+		"id": 142,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "142 - NOMINATION AND ELECTION OF PRESIDENT "
+	},
+	{
+		"id": 143,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "143 - REMOVAL OF PRESIDENT FROM OFFICE "
+	},
+	{
+		"id": 144,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "144 - PERMANENT INCAPACITY OF PRESIDENT OR VICE PRESIDENT "
+	},
+	{
+		"id": 145,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "145 - ACTING PRESIDENT DURING TEMPORARY ABSENCE OF PRESIDENT "
+	},
+	{
+		"id": 146,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "146 - DISHARGE OF FUNCTIONS OF PRESIDENT "
+	},
+	{
+		"id": 147,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "147 - MINISTERS OF THE FEDERAL GOVERNMENT "
+	},
+	{
+		"id": 148,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "148 - EXECUTIVE RESPONSIBILITIES OF MINISTERS "
+	},
+	{
+		"id": 149,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "149 -DECLARATION OF ASSETS AND LIABILITIES; OATHS OF MINISTERS "
+	},
+	{
+		"id": 150,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "150 - ATTORNEY GENERAL OF THE FEDERATION "
+	},
+	{
+		"id": 151,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "151 - SPECIAL ADVISERS "
+	},
+	{
+		"id": 152,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "152 - DECLARATION OF ASSETS AND LIABILITIES; OATHS OF SPECIAL ADVISERS "
+	},
+	{
+		"id": 153,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "153 - FEDERAL COMMISSIONS AND COUNCILS, ETC "
+	},
+	{
+		"id": 154,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "154 - APPOINTMENT OF CHAIRMAN AND MEMBERS "
+	},
+	{
+		"id": 155,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "155 - TENURE OF OFFICE OF MEMBERS "
+	},
+	{
+		"id": 156,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "156 - QUALIFICATION FOR MEMBERSHIP "
+	},
+	{
+		"id": 157,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "157 - REMOVAL OF MEMBERS "
+	},
+	{
+		"id": 158,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "158 - INDEPENDENCE OF CERTAIN BODIES"
+	},
+	{
+		"id": 159,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "159 - -QUORUM AND DECISIONS "
+	},
+	{
+		"id": 160,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "160 - POWERS AND PROCEDURE "
+	},
+	{
+		"id": 161,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "161 - INTERPRETATION "
+	},
+	{
+		"id": 162,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "162 - DISTRIBUTABLE POOL ACCOUNT "
+	},
+	{
+		"id": 163,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "163 - ALLOCATION OF OTHER REVENUE "
+	},
+	{
+		"id": 164,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "164 - FEDERAL GRANTS-IN-AID OF STATE REVENUE "
+	},
+	{
+		"id": 165,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "165 - COST OF COLLECTION OF CERTAIN DUTIES "
+	},
+	{
+		"id": 166,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "166 - SET-OFF "
+	},
+	{
+		"id": 167,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "167 - SUMS CHARGED ON CONSOLIDATED REVENUE FUND "
+	},
+	{
+		"id": 168,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "168 -PROVISIONS WITH REGARD TO PAYMENT "
+	},
+	{
+		"id": 169,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "169 -  ESTABLISHMENT OF CIVIL SERVICE OF THE FEDERATION "
+	},
+	{
+		"id": 170,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "170 -  FEEERAL CIVIL SERVICE COMMISSION "
+	},
+	{
+		"id": 171,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "171 -  PRESIDENTIAL APPOINTMENTS "
+	},
+	{
+		"id": 172,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "172 -  CODE OF CONDUCT "
+	},
+	{
+		"id": 173,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "173 -  PROTECTION OF PENSION RIGHTS "
+	},
+	{
+		"id": 174,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "174 -  PUBLIC PROSECUTIOS "
+	},
+	{
+		"id": 175,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "175 -  PREROGATIVE OF MERCY "
+	},
+	{
+		"id": 176,
+		"part_id": 5,
+		"chapter_id": 6,
+		"title": "176 -  ESTABLISHMENT OF OFFICE OF GOVERNOR "
+	},
+	{
+		"id": 177,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "177 -  QUALIFICATION FOR ELECTION AS GOVERNOR "
+	},
+	{
+		"id": 178,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "178 - ELECTION OF GOVERNOR: GENERAL "
+	},
+	{
+		"id": 179,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "179 -  ELECTION: SINGLE CANDIDATE AND TWO OR MORE CANDIDATES "
+	},
+	{
+		"id": 180,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "180 -  TENURE OF OFFICE OF GOVERNOR "
+	},
+	{
+		"id": 181,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "181 -  DEATH, ETC. OF GOVERNOR BEFORE OATH OF OFFICE "
+	},
+	{
+		"id": 182,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "182 -  DISQUALIFICATIONS "
+	},
+	{
+		"id": 183,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "183 -  GOVERNOR: DISQUALIFICATION FROM OTHER JOBS "
+	},
+	{
+		"id": 184,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "184 -  DETERMINATION OF CERTAIN QUESTIONS RELATING TO ELECTION "
+	},
+	{
+		"id": 185,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "185 -  DECLARATION OF ASSETS AND LIABILITIES; OATHS OF GOVERNOR "
+	},
+	{
+		"id": 186,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "186 -  ESTABLISHMENT OF THE OFFICE OF THE DEPUTY GOVERNOR "
+	},
+	{
+		"id": 187,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "187 -  NOMINATION AND ELECTION OF THE DEPUTY GOVERNOR "
+	},
+	{
+		"id": 188,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "188 -  REMOVAL OF GOVERNOR OR DEPUTY GOVERNOR FROM OFFICE "
+	},
+	{
+		"id": 189,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "189 PERMANENT INCAPACITY OF GOVERNOR OR DEPUTY GOVERNOR "
+	},
+	{
+		"id": 190,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "190 ACTING GOVERNOR DURING TEMPORARY ABSENCE OF GOVERNOR "
+	},
+	{
+		"id": 191,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "191 DISCHARGE OF FUNCTIONS OF GOVERNOR "
+	},
+	{
+		"id": 192,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "192 COMMISSIONERS OF STATE GOVERNMENTS "
+	},
+	{
+		"id": 193,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "193 EXECUTIVE RESPONSIBILITY OF DEPUTY GOVERNOR AND COMMISSIONERS "
+	},
+	{
+		"id": 194,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "194 -  DECLARATION OF ASSETS AND LIABILITIES; OATHS OF COMMISSIONERS "
+	},
+	{
+		"id": 195,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "195 -  ATTORNEY-GENERAL OF A STATE "
+	},
+	{
+		"id": 196,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "196 -  SPECIAL ADVISERS "
+	},
+	{
+		"id": 197,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "197 -  STATE COMMISSIONERS "
+	},
+	{
+		"id": 198,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "198 -  APPOINTMENT OF CHAIRMAN AND MEMBERS "
+	},
+	{
+		"id": 199,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "199 -  TENURE OF OFFICE OF THE MEMBERS "
+	},
+	{
+		"id": 200,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "200 -  QUALIFICATION FOR MEMBERSHIP "
+	},
+	{
+		"id": 201,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "201 -  REMOVAL OF MEMBERS "
+	},
+	{
+		"id": 202,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "202 -  INDEPENDENCE OF CERTAIN BODIES "
+	},
+	{
+		"id": 203,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "203 -  QUORUMS AND DECISIONS "
+	},
+	{
+		"id": 204,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "204 -  POWERS AND PROCEDURE "
+	},
+	{
+		"id": 205,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "205 -  INTERPRETATION "
+	},
+	{
+		"id": 206,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "206 -  ESTABLISHMENT OF STATE CIVIL SERVICE "
+	},
+	{
+		"id": 207,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "207 -  STATE CIVIL SERVICE COMMISSION: POWER OF DELEGATION "
+	},
+	{
+		"id": 208,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "208 -  APPOINTMENTS BY GOVERNOR "
+	},
+	{
+		"id": 209,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "209 -  CODE OF CONDUCT "
+	},
+	{
+		"id": 210,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "210 -  PROTECTION OF PENSION RIGHTS "
+	},
+	{
+		"id": 211,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "211 -  PUBLIC PROSECUTIOS "
+	},
+	{
+		"id": 212,
+		"part_id": 6,
+		"chapter_id": 6,
+		"title": "212 -  PREROGATIVE OF MERCY "
+	},
+	{
+		"id": 213,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "213 -  NATIONAL POPULATION CENSUS "
+	},
+	{
+		"id": 214,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "214 -  ESTABLISHMENT OF NIGERIA POLICE FORCE "
+	},
+	{
+		"id": 215,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "215 -  APPOINTMENT OF INSPECTOR-GENERAL AND CONTROL OF NIGERIA POLICE FORCE "
+	},
+	{
+		"id": 216,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "216 -  DELEGATION OF POWERS TO THE NIGERIA POLICE FORCE "
+	},
+	{
+		"id": 217,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "217 -  ESTABLISHMENT AND COMPOSITION OF THE ARMED FORCES OF THE FEDERATION "
+	},
+	{
+		"id": 218,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "218 -  COMMAND AND OPERATIONAL USE "
+	},
+	{
+		"id": 219,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "219 -  ESTABLISHMENT OF BODY TO ENSURE FEDERAL CHARACTER OF ARMED FORCES "
+	},
+	{
+		"id": 220,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "220 -  COMPULSORY MILITARY SERVICE "
+	},
+	{
+		"id": 221,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "221 -  PROHIBITION OF POLITICAL ACTIVITIES BY CERTAIN ORGANIZATIONS "
+	},
+	{
+		"id": 222,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "222 -  RESTRICTIONS ON FORMATION OF POLITICAL PARTIES "
+	},
+	{
+		"id": 223,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "223 -  CONSTITUTION AND RULES OF POLITICAL PARTIES "
+	},
+	{
+		"id": 224,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "224 -  AIMS AND OBJECTIVES "
+	},
+	{
+		"id": 225,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "225 -  FINANCES OF POLITICAL PARTIES "
+	},
+	{
+		"id": 226,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "226 -  ANNUAL REPORT ON FINANCES "
+	},
+	{
+		"id": 227,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "227 -  PROHIBITION OF QUASI-MILITARY ORGANIZATIONS "
+	},
+	{
+		"id": 228,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "228 -  POWERS OF THE NATIONAL ASSEMBLY WITH RESPECT TO POLITICAL PARTIES "
+	},
+	{
+		"id": 229,
+		"part_id": 7,
+		"chapter_id": 6,
+		"title": "229 -  INTERPRETATION "
+	},
+	{
+		"id": 230,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "230 -  ESTABLISHMENT OF THE SUPREME COURT OF NIGERIA "
+	},
+	{
+		"id": 231,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "231 -  (APPOINTMENT OF CHIEF JUSTICE OF NIGERIA AND JUSTICES OF THE SUPREME COURT "
+	},
+	{
+		"id": 232,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "232 -  ORIGINAL JURISDICTION  "
+	},
+	{
+		"id": 233,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "233 -  APPELLATE JURISDICTION "
+	},
+	{
+		"id": 234,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "234 -  CONSTITUTION "
+	},
+	{
+		"id": 235,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "235 -  FINALITY OF DETERMINATIONS "
+	},
+	{
+		"id": 236,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "236 -  PRACICE AND PROCEDURE "
+	},
+	{
+		"id": 237,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "237 -  ESTABLISHMENT OF COURT OF APPEAL "
+	},
+	{
+		"id": 238,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "238 -  APPOINTMENT OF PRESIDENT AND JUSTICES OF THE COURT OF APPEAL "
+	},
+	{
+		"id": 239,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "239 -  ORIGINAL JURISDICTION"
+	},
+	{
+		"id": 240,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "240 -  APPELLATE JURISDICTION "
+	},
+	{
+		"id": 241,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "241 -  APPEALS AS OF RIGHTS FROM THE FEDERAL HIGH COURT OR A HIGH COURT "
+	},
+	{
+		"id": 242,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "242 -  APPEALS WITH LEAVE  "
+	},
+	{
+		"id": 243,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "243 -  EXERCISE OF THE RIGHT OF APPEAL FROM THE FEDERAL HIGH COURT OR A HIGH COURT IN CIVIL AND CRIMINAL MATTERS "
+	},
+	{
+		"id": 244,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "244 -  APPEALS FROM SHARIA COURT OF APPEAL "
+	},
+	{
+		"id": 245,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "245 -  APPEALS FROM CUSTOMARY COURT OF APPEAL "
+	},
+	{
+		"id": 246,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "246 -  APPEALS FROM CODE OF CONDUCT TRIBUNAL "
+	},
+	{
+		"id": 247,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "247 -  ONSTITUTION "
+	},
+	{
+		"id": 248,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "248 -  PRACTICE AND PROCEDURE "
+	},
+	{
+		"id": 249,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "249 -  ESTABLISHMENT OF THE FEDERAL HIGH COURT "
+	},
+	{
+		"id": 250,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "250 -  APPOINTMENT OF CHIEF JUDGE AND JUDGES OF THE FEDERAL HIGH COURT "
+	},
+	{
+		"id": 251,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "251 -  JURISDICTION  "
+	},
+	{
+		"id": 252,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "252 -  POWERS "
+	},
+	{
+		"id": 253,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "253 -  CONSTITUTION "
+	},
+	{
+		"id": 254,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "254 -  PRACTICE AND PROCEDURE "
+	},
+	{
+		"id": 255,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "255 -  ESTABLISHMENT OF THE HIGH COURT OF THE FEDERAL CAPITAL TERRITORY, ABUJA "
+	},
+	{
+		"id": 256,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "256 -  APPOINTMENT OF CHIEF JUDGE AND JUDGES OF THE HIGH COURT OF THE FEDERAL CAPITAL TERRITORY, ABUJA "
+	},
+	{
+		"id": 257,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "257 -  JURISDICTION "
+	},
+	{
+		"id": 258,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "258 -  CONSTITUTION "
+	},
+	{
+		"id": 259,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "259 -  PRACTICE AND PROCEDURE "
+	},
+	{
+		"id": 260,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "260 -  ESTABLISHMENT OF SHARIA COURT OF APPEAL "
+	},
+	{
+		"id": 261,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "261 -  APPOINTMENT OF GRAND KADI AND KADIS OF THE SHARIA COURT OF APPEAL "
+	},
+	{
+		"id": 262,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "262 -  JURISDICTION "
+	},
+	{
+		"id": 263,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "263 -  CONSTITUTION "
+	},
+	{
+		"id": 264,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "264 -  PRACTICE AND PROCEDURE "
+	},
+	{
+		"id": 265,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "265 -  ESTABLISHMENT OF CUSTOMARY COURT OF APPEAL OF THE FEDERAL CAPITAL TERRITORY, ABUJA "
+	},
+	{
+		"id": 266,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "266 -  APPOINTMENT OFPRESIDENT AND JUDGES OF THE CUSTOMARY COURT OF APPEAL "
+	},
+	{
+		"id": 267,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "267 -  JURISDICTION "
+	},
+	{
+		"id": 268,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "268 -  CONSTITUTION "
+	},
+	{
+		"id": 269,
+		"part_id": 8,
+		"chapter_id": 7,
+		"title": "269 -  PRACTICE AND PROCEDURE "
+	},
+	{
+		"id": 270,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "270 -  ESTABLISHMENT OF A HIGH COURT FOR EACH STATE "
+	},
+	{
+		"id": 271,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "271 -  APPOINTMENT OF CHIEF JUDGE AND JUDGES OF THE HIGH COURT OF A STATE "
+	},
+	{
+		"id": 272,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "272 -  JURISDICTION "
+	},
+	{
+		"id": 273,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "273 -  CONSTITUTION "
+	},
+	{
+		"id": 274,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "274 -  PRACTICE AND PROCEDURE "
+	},
+	{
+		"id": 275,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "275 -  ESTABLISHMENT OF SHARIA COURT OF APPEAL FOR EACH STATE "
+	},
+	{
+		"id": 276,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "276 -  APPOINTMENT OF GRAND KADI AND KADIS OF THE SHARIA COURT OF APPEAL OF A STATE "
+	},
+	{
+		"id": 277,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "277 -  JURISDICTION "
+	},
+	{
+		"id": 278,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "278 -  CONSTITUTION "
+	},
+	{
+		"id": 279,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "279 -  PRACTICE AND PROCEDURE "
+	},
+	{
+		"id": 280,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "280 -  ESTABLISHMENT OF A CUSTOMARY COURT OF APPEAL FOR EACH STATE "
+	},
+	{
+		"id": 281,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "281 -  APPOINTMENT OF PRESIDENT AND JUDGES OF THE CUSTOMARY COURT OF APPEAL OF A STATE "
+	},
+	{
+		"id": 282,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "282 -  JURISDICTION  "
+	},
+	{
+		"id": 283,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "283 -  CONSTITUTION "
+	},
+	{
+		"id": 284,
+		"part_id": 9,
+		"chapter_id": 7,
+		"title": "284 -  PRACTICE AND PROCEDURE "
+	},
+	{
+		"id": 285,
+		"part_id": 10,
+		"chapter_id": 7,
+		"title": "285 -  ELECTION TRIBUNALS "
+	},
+	{
+		"id": 286,
+		"part_id": 11,
+		"chapter_id": 7,
+		"title": "286 -  JURISDICTION OF STATE COURTS IN RESPECT OF FEDERAL CAUSES "
+	},
+	{
+		"id": 287,
+		"part_id": 11,
+		"chapter_id": 7,
+		"title": "287 -  ENFORCEMENT OF DECISIONS "
+	},
+	{
+		"id": 288,
+		"part_id": 11,
+		"chapter_id": 7,
+		"title": "288 -  APPOINTMENT OF PERSONS LEARNED IN IISLAMIC PERSONAL LAW AND CUSTOMARY LAW "
+	},
+	{
+		"id": 289,
+		"part_id": 11,
+		"chapter_id": 7,
+		"title": "289 -  DISQUALIFICATION OF CERTAIN LEGAL PRACTITIONERS "
+	},
+	{
+		"id": 290,
+		"part_id": 11,
+		"chapter_id": 7,
+		"title": "290 -  DECLARATION OF ASSETS AND LIABILITIES; OATHS OF JUDICIAL OFFICERS "
+	},
+	{
+		"id": 291,
+		"part_id": 11,
+		"chapter_id": 7,
+		"title": "291 -  TENURE OF OFFICE AND PENSION RIGHTS OF JUDICIAL OFFICERS "
+	},
+	{
+		"id": 292,
+		"part_id": 11,
+		"chapter_id": 7,
+		"title": "292 -  REMOVAL OF OTHER JUDICIAL OFFICERS FROM OFFICE "
+	},
+	{
+		"id": 293,
+		"part_id": 11,
+		"chapter_id": 7,
+		"title": "293 -  VACANCIES "
+	},
+	{
+		"id": 294,
+		"part_id": 11,
+		"chapter_id": 7,
+		"title": "294 -  DETERMINATION OF CAUSES AND MATTERS "
+	},
+	{
+		"id": 295,
+		"part_id": 11,
+		"chapter_id": 7,
+		"title": "295 -  REFERENCE OF QUESTIONS OF LAW "
+	},
+	{
+		"id": 296,
+		"part_id": 11,
+		"chapter_id": 7,
+		"title": "296 -  INTERPRETATION "
+	},
+	{
+		"id": 297,
+		"part_id": 12,
+		"chapter_id": 8,
+		"title": "297 -  FEDERAL CAPITAL TERRITORY, ABUJA: OWNERSHIP OF LANDS "
+	},
+	{
+		"id": 298,
+		"part_id": 12,
+		"chapter_id": 8,
+		"title": "298 -  CAPITAL OF THE FEDERATION "
+	},
+	{
+		"id": 299,
+		"part_id": 12,
+		"chapter_id": 8,
+		"title": "299 -  APPLICATION OF CONSTITUTION "
+	},
+	{
+		"id": 300,
+		"part_id": 12,
+		"chapter_id": 8,
+		"title": "300 -  REPRESENTATION IN THE NATIONAL ASSEMBLY "
+	},
+	{
+		"id": 301,
+		"part_id": 12,
+		"chapter_id": 8,
+		"title": "301 -  Without prejudice to the generality of the provisions of section 299 of this Constitution, in its application to the Federal Capital Territory, Abuja, this Constitution shall be construed as if- "
+	},
+	{
+		"id": 302,
+		"part_id": 12,
+		"chapter_id": 8,
+		"title": "302 -  ADAPTATION OF CERTAIN REFERENCES "
+	},
+	{
+		"id": 303,
+		"part_id": 12,
+		"chapter_id": 8,
+		"title": "303 -  MINISTER OF FEDERAL CAPITAL TERRITORY, ABUJA "
+	},
+	{
+		"id": 304,
+		"part_id": 12,
+		"chapter_id": 8,
+		"title": "304 -  ESTABLISHMENT OF THE JUDICIAL SERVICE COMMITTEE OF THE FEDERAL CAPITAL TERRITORY, ABUJA "
+	},
+	{
+		"id": 305,
+		"part_id": 13,
+		"chapter_id": 8,
+		"title": "305 -  PROCEDURE FOR PROCLAMATION OF STATE OF EEMERGENCY "
+	},
+	{
+		"id": 306,
+		"part_id": 13,
+		"chapter_id": 8,
+		"title": "306 -  RESIGNATIONS "
+	},
+	{
+		"id": 307,
+		"part_id": 13,
+		"chapter_id": 8,
+		"title": "307 -  RESTRICTION ON CERTAIN CITIZENS "
+	},
+	{
+		"id": 308,
+		"part_id": 13,
+		"chapter_id": 8,
+		"title": "308 -  RESTRICTION ON LEGAL PROCEEDINGS "
+	},
+	{
+		"id": 309,
+		"part_id": 14,
+		"chapter_id": 8,
+		"title": "309 -  CITIZENSHIP "
+	},
+	{
+		"id": 310,
+		"part_id": 14,
+		"chapter_id": 8,
+		"title": "310 -  STAFF OF LEGISLATIVE HOUSES "
+	},
+	{
+		"id": 311,
+		"part_id": 14,
+		"chapter_id": 8,
+		"title": "311 -  STANDING ORDERS "
+	},
+	{
+		"id": 312,
+		"part_id": 14,
+		"chapter_id": 8,
+		"title": "312 -  SPECIAL PROVISIONS IN RESPECT OF FIRST ELECTION "
+	},
+	{
+		"id": 313,
+		"part_id": 14,
+		"chapter_id": 8,
+		"title": "313 -  SYSTEM OF REVENUE ALLOCATION"
+	},
+	{
+		"id": 314,
+		"part_id": 14,
+		"chapter_id": 8,
+		"title": "314 -  DEBTS "
+	},
+	{
+		"id": 315,
+		"part_id": 14,
+		"chapter_id": 8,
+		"title": "315 -  EXISTING LAWS "
+	},
+	{
+		"id": 316,
+		"part_id": 14,
+		"chapter_id": 8,
+		"title": "316 -  EXISTING OFFICES, COURTS AND AUTHORITIES "
+	},
+	{
+		"id": 317,
+		"part_id": 14,
+		"chapter_id": 8,
+		"title": "317 -  SUCCESSION TO PROPERTY, RIGHTS, LIABILITIES AND OBLIGATIONS "
+	},
+	{
+		"id": 318,
+		"part_id": 15,
+		"chapter_id": 8,
+		"title": "318 -  INTERPRETATION "
+	},
+	{
+		"id": 319,
+		"part_id": 15,
+		"chapter_id": 8,
+		"title": "319 -  CITATION"
+	},
+	{
+		"id": 320,
+		"part_id": 15,
+		"chapter_id": 8,
+		"title": "320 -  COMMENCEMENT "
+	}
+]
